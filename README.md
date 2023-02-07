@@ -1,0 +1,1 @@
+# structure_in_picture
